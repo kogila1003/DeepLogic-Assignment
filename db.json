@@ -1,0 +1,72 @@
+{
+  "getTimeStories": [
+   {
+    "selection2": "Amy Schneider's Jeopardy!Streak Ends",
+    "selection2_url": "https://www.nbcnews.com/news/us-news/amy-schneiders-historic-jeopardy-win-streak-comes-end-40-victories-rcna13703",
+    "time": "Dec 29, 2023 • 10:00 PM EDT"
+   },
+   {
+    "selection2": "Writing With Fire Shines a Light on All-Women News Outlet",
+    "selection2_url": "https://time.com/6142628/writing-with-fire-india-documentary/",
+    "time": "Dec 29, 2023 • 10:05 PM EDT"
+   },
+   {
+    "selection2": "Moderna Booster May Wane After 6 Months",
+    "selection2_url": "https://time.com/6142852/moderna-booster-wanes-omicron/",
+    "time": "Dec 29, 2023 • 10:06 PM EDT"
+   },
+   {
+    "selection2": "Pressure Mounts for Biden to Nominate a Black Woman to the Supreme",
+    "selection2_url": "https://sports.yahoo.com/pressure-mounts-biden-nominate-black-205117642.html",
+    "time": "Dec 29, 2023 • 10:08 PM EDT"
+   },
+   {
+    "selection2": "The James Webb Space Telescope Is in Position And Now We Wait",
+    "selection2_url": "https://time.com/6142769/james-webb-space-telescope-reaches-l2/",
+    "time": "Dec 29, 2023 • 10:11 PM EDT"
+   },
+   {
+    "selection2": "We Urgently Need a New National COVID-19 Response Plan",
+    "selection2_url": "https://time.com/6142718/we-need-new-national-covid-19-response-plan/",
+    "time": "Dec 29, 2023 • 10:14 PM EDT"
+   }
+  ],
+  "homenews": [
+    {
+     "name": "Anatol Lieven",
+     "text":"Russia Has Been Warning the West About Ukraine for Decades",
+     "url": "https://time.com/6141806/russia-ukraine-threats/",
+     "selection2": "June 23, 2022 • 4:54 PM EDT"
+    },
+    {
+     "name": "Ismat Ara",
+     "text":"How It Feels to Be a Muslim Woman Sold by India's Right Wing",
+     "url": "https://time.com/6140574/muslim-women-india/",
+     "selection2": "June 23, 2022 • 5:55 PM EDT"
+    },
+    {
+     "name": "Robert J. Davis",
+     "text":"Why You Shouldn't Exercise to Lose Weight",
+     "url": "https://time.com/6138809/should-you-exercise-to-lose-weight/",
+     "selection2": "June 23, 2022 • 7:00 AM EDT"
+    },
+    {
+      "name": "Yohanca Delgado",
+      "text":"The Life-Changing Practice That Will help You Feel More Gratitude",
+      "url": "https://time.com/6140818/how-to-feel-gratitude-kindness-catalog/",
+      "selection2": "June 23, 2022 • 7:00 AM EDT"
+     },
+     {
+      "name": "W. Kamau Bell",
+      "text":"There's So Much More To Say About Bill Cosby",
+      "url": "https://time.com/6140051/we-need-to-talk-about-cosby-showtime/",
+      "selection2": "June 23, 2022 • 7:00 AM EDT"
+     },
+     {
+      "name": "Christina Bu",
+      "text":"What Norway Can Teach the World About Switching to Electric Vehicles",
+      "url": "https://time.com/6190044/ocean-climate-change/",
+      "selection2": "June 23, 2022 • 7:00 AM EDT"
+     }
+   ]
+ }
